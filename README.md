@@ -3,6 +3,7 @@ Code repo for reproduce FGN
 
 ### Requirement
 * PyTorch 1.7.1, DGL 0.7.0, PyTorch Geometric 1.7.0, CuPy (latest version), Numpy, Scipy, Scikit-learn & Numba
+* Pandas and Partio (https://github.com/wdas/partio)
 * FRNN from: https://github.com/lxxue/FRNN
 
 ### Structure
