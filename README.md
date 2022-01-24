@@ -1,4 +1,4 @@
-# FGN-code
+# Fluid Graph Network
 Code repo for reproduce FGN
 
 ### Requirement
