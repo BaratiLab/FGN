@@ -1,5 +1,5 @@
 # Fluid Graph Network
-Code repo for reproduce FGN
+Code repo for FGN
 
 ### Requirement
 * PyTorch 1.7.1, DGL 0.7.0, PyTorch Geometric 1.7.0, CuPy (latest version), Numpy, Scipy, Scikit-learn & Numba
