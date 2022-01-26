@@ -13,5 +13,6 @@ Grid used to benchmark and generate data are available at "./grid" folder. </br>
 
 ### Examples
 * To run the simulation using pretrained GNN:
-The example simulation script is in the "./running_script" folder. For example: sh gnn_simulate.sh </br>
+The example simulation script is in the "./running_script" folder. </br>
+For example: ```sh gnn_simulate.sh``` </br>
 
