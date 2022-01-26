@@ -7,7 +7,7 @@ Code repo for FGN
 * FRNN from: https://github.com/lxxue/FRNN
 
 ### Structure
-The implementation of MPS is included in Particles.py, cuHelper.py </br>
+TSPH's data structure and solving scheme is included in Particles.py, cuHelper.py </br>
 The pretrained weights are available at "./training" folder. </br>
 Grid used to benchmark and generate data are available at "./grid" folder. </br>
 
