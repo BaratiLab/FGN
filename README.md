@@ -16,11 +16,11 @@ Grid used to benchmark and generate data are available at "./grid" folder. </br>
  ```
  cd training
  python generate_data.py
- ``` </br>
+ ``` 
 * To run the simulation using pretrained GNN:
 The example simulation script is in the "./running_script" folder. </br>
 ```
 cd running_script
 sh gnn_simulate.sh
-``` </br>
+``` 
 
