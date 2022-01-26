@@ -10,4 +10,8 @@ Code repo for FGN
 The implementation of MPS is included in Particles.py, cuHelper.py </br>
 The pretrained weights are available at "./training" folder. </br>
 Grid used to benchmark and generate data are available at "./grid" folder. </br>
-The example simulation script is in the "./running_script" folder: for example: sh gnn_simulate.sh
+
+### Examples
+* To run the simulation using pretrained GNN:
+The example simulation script is in the "./running_script" folder. For example: sh gnn_simulate.sh </br>
+
