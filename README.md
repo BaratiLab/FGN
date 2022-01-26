@@ -12,10 +12,15 @@ The pretrained weights are available at "./training" folder. </br>
 Grid used to benchmark and generate data are available at "./grid" folder. </br>
 
 ### Usage
-* The train and test data can be downloaded at belowing links: 
-| Train data   [link]() |
-| Test data  [link]() |
+* The train and test data can be generated using generate_data.py in "./training" folder: 
+ ```
+ cd training
+ python generate_data.py
+ ``` </br>
 * To run the simulation using pretrained GNN:
 The example simulation script is in the "./running_script" folder. </br>
-For example: ```sh gnn_simulate.sh``` </br>
+```
+cd running_script
+sh gnn_simulate.sh
+``` </br>
 
